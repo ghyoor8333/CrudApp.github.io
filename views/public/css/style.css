@@ -1,0 +1,9 @@
+.background{
+    background-color: rgb(144, 11, 246);
+    color: white;
+}
+.center-div{
+    height: 480px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
